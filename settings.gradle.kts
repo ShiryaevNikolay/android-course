@@ -10,3 +10,4 @@ plugins {
 }
 
 rootProject.name = "AndroidCourse"
+include("lab1")
