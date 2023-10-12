@@ -1,4 +1,4 @@
-package io.course.android;
+package io.course.android.shapes;
 
 public class Triangle extends BaseShape {
 

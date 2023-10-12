@@ -1,4 +1,4 @@
-package io.course.android;
+package io.course.android.shapes;
 
 public abstract class BaseShape implements IShape {
     private final String color;
